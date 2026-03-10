@@ -1,0 +1,22 @@
+{
+  "name": "poketmon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'Build complete'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namonamho88-ui/poketmon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/namonamho88-ui/poketmon/issues"
+  },
+  "homepage": "https://github.com/namonamho88-ui/poketmon#readme"
+}
